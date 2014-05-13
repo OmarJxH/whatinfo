@@ -2,6 +2,7 @@
 #create by : OmaR JxH
 #E-mail om4rjxh@gmail.com
 #website: http://JxHs.org
+# https://twitter.com/JxHsorg
 #Description : This script displays file information services and software system that has rpm packages
 #cpoy whatinfo.sh to /usr/bin < ------------ /usr/bin/whatinfo
 #$ whatinfo --help
