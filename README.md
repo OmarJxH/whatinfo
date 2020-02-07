@@ -14,8 +14,11 @@ or you can move it " mv whatinfo /usr/bin" to fast use
 
 
 whatinfo wget
+
 or
+
 whatinfo /etc/httpd.conf
+
 
 SYSTEM REQUIREMENTS
 ========
