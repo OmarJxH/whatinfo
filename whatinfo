@@ -1,10 +1,10 @@
 #!/bin/bash
 #create by : OmaR JxH
-#E-mail om4rjxh@gmail.com
-#website: http://JxHs.org
-# https://twitter.com/JxHsorg
+#E-mail info@omarjxh.com
+#website: https://omarjxh.com
+# https://twitter.com/omar_jxh
 #Description : This script displays file information services and software system that has rpm packages
-#cpoy whatinfo.sh to /usr/bin < ------------ /usr/bin/whatinfo
+#cpoy whatinfo to /usr/bin < ------------ /usr/bin/whatinfo
 #$ whatinfo --help
          
          
